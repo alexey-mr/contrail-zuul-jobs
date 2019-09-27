@@ -1,5 +1,5 @@
 - project:
-    name: progmaticlab/contrail-zuul-jobs
+    name: alexey-mr/contrail-zuul-jobs
     check:
       jobs:
         - ci-test-core-centos-7
